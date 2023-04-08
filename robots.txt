@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://gunel-bayraktar.github.io/sitemap.xml
